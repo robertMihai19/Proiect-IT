@@ -1,0 +1,162 @@
+.navbar {
+  font-family: "Merriwheater";
+  margin-top: 40px;
+  margin-left: 25px;
+  margin-right: 100px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.titlu {
+  font: bold x-large Merriweater, serif;
+  color: #263238;
+  position: absolute;
+  text-shadow: 5px 1px #92e3a9;
+}
+
+.btn {
+  margin-top: 5px;
+  font: "Merriwheater";
+  font-weight: 700px;
+  font-style: normal;
+  font-size: 16px;
+  text-align: center;
+  line-height: 20.11px;
+  background-color: #263238;
+  color: #92e3a9;
+}
+
+#sus h3 {
+  font-family: Merriweater;
+  font-size: 40px;
+  font-weight: 900;
+  font-style: normal;
+}
+#sus p {
+  font-family: Roboto;
+}
+
+select#materie {
+  border: 1px solid #263238;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  color: #a8a8a8;
+}
+
+input#msg {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+button.btn:hover {
+  color: #92e3a9;
+}
+
+#fereastra p {
+  font-family: Merriweather;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: left;
+  background-color: #92e3a9;
+}
+
+#Middle {
+  background-color: #92e3a9;
+}
+
+#Middle p {
+  font-family: "Merriweather";
+  margin-top: 40px;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 121.1%;
+  text-align: center;
+  margin-top: 40px;
+  padding: 30px;
+}
+
+#Middle .row {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 19px;
+  color: #263238;
+  margin-bottom: 40px;
+  padding: 40px;
+}
+#Middle .cifra {
+  border: 1px solid #263238;
+  width: 50px;
+  height: 50px;
+  left: 208px;
+  top: 1056px;
+  background: #263238;
+  color: #92e3a9;
+  text-align: center;
+  font-family: Merriweather;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 121.1%;
+}
+
+#Injuraturi {
+  padding: 100px;
+}
+
+#Injuraturi .text1 {
+  font-family: Merriweather;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 29px;
+  line-height: 121.1%;
+}
+#Injuraturi p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  text-align: left;
+}
+.form-control {
+  resize: none;
+}
+.Final {
+  background-color: #263238;
+  padding: 30px;
+}
+
+.Final p {
+  color: #ffffff;
+  font-family: "Merriweather";
+}
+
+#listAdaug {
+  margin-left: 20px;
+}
+#listAdaug h5 {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  color: #263238;
+}
+
+#listAdaug h6 {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 20.11px;
+  color: #92e3a9;
+}
